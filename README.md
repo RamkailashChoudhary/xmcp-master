@@ -1,6 +1,6 @@
-# xmcp — X MCP demos with Spring AI
+3# xmcp — X MCP demos with Spring AI
 
-A small Spring Boot app (Spring Boot 4.1, Spring AI 2.0) that connects to two of
+Spring Boot app (Spring Boot 4.1, Spring AI 2.0) that connects to two of
 X's MCP servers and lets Claude call their tools. Two demos, side by side:
 
 | Demo | What it does | Try it |
@@ -14,7 +14,7 @@ login. (When *would* you need the bridge? See the bottom of this file.)
 
 ## What you need
 
-- **Java 26**
+- **Java 21**
 - **`ANTHROPIC_API_KEY`** — the Claude model the app talks to.
 - **`X_BEARER_TOKEN`** — your app's *App-only Bearer token* from the
   [X Developer Portal](https://developer.x.com) (your app → *Keys and tokens*).
