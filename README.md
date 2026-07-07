@@ -1,4 +1,4 @@
-3# xmcp — X MCP demos with Spring AI
+## xmcp — X MCP demos with Spring AI
 
 Spring Boot app (Spring Boot 4.1, Spring AI 2.0) that connects to two of
 X's MCP servers and lets Claude call their tools. Two demos, side by side:
